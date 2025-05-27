@@ -8,7 +8,7 @@ Velocity Cycles Dashboard using Power BI live connection to OLAP Cube with SSAS
 ![image](https://github.com/user-attachments/assets/dd0e7865-c55b-4b10-8c01-a55df247afcb)
 
 ### Customer Dashboard
-![image](https://github.com/user-attachments/assets/22b448a8-433c-44b5-957e-0de17f9fbcda)
+![image](https://github.com/user-attachments/assets/3e0dd641-aec4-4dcc-b954-9edc762ab665)
 
 ## Product Dashboard
 ![image](https://github.com/user-attachments/assets/d66acfde-9e99-4f53-b97f-59ebf141c6c6)
